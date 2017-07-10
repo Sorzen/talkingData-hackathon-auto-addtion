@@ -1,0 +1,4 @@
+build/*.js
+config/*.js
+src/router/routes.js
+src/views/appdetail.vue
